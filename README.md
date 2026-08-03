@@ -1,4 +1,4 @@
-# Netflix Titles Dashboard 🎬
+# Netflix Dashboard 🎬
 
 A Power BI dashboard analyzing Netflix's catalog of movies and TV shows — built to explore content trends by genre, rating, country, and release year.
 
